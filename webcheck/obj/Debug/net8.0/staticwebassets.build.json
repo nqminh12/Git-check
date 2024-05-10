@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "CnsCj92zS1T22ns+wyLeKYc2Bpx76l+6uUv8MIesBOM=",
+  "Source": "webcheck",
+  "BasePath": "_content/webcheck",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

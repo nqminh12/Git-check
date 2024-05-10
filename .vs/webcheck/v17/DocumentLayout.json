@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Fpt\\Downloads\\webcheck\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8010F2C-7CF2-48C4-9CD6-63B7D8450066}|webcheck\\webcheck.csproj|c:\\users\\fpt\\downloads\\webcheck\\webcheck\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8010F2C-7CF2-48C4-9CD6-63B7D8450066}|webcheck\\webcheck.csproj|solutionrelative:webcheck\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8010F2C-7CF2-48C4-9CD6-63B7D8450066}|webcheck\\webcheck.csproj|c:\\users\\fpt\\downloads\\webcheck\\webcheck\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8010F2C-7CF2-48C4-9CD6-63B7D8450066}|webcheck\\webcheck.csproj|solutionrelative:webcheck\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8010F2C-7CF2-48C4-9CD6-63B7D8450066}|webcheck\\webcheck.csproj|c:\\users\\fpt\\downloads\\webcheck\\webcheck\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8010F2C-7CF2-48C4-9CD6-63B7D8450066}|webcheck\\webcheck.csproj|solutionrelative:webcheck\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8010F2C-7CF2-48C4-9CD6-63B7D8450066}|webcheck\\webcheck.csproj|c:\\users\\fpt\\downloads\\webcheck\\webcheck\\webcheck.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A8010F2C-7CF2-48C4-9CD6-63B7D8450066}|webcheck\\webcheck.csproj|solutionrelative:webcheck\\webcheck.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8010F2C-7CF2-48C4-9CD6-63B7D8450066}|webcheck\\webcheck.csproj|c:\\users\\fpt\\downloads\\webcheck\\webcheck\\webcheck.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{A8010F2C-7CF2-48C4-9CD6-63B7D8450066}|webcheck\\webcheck.csproj|solutionrelative:webcheck\\webcheck.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Fpt\\Downloads\\webcheck\\webcheck\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "webcheck\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Fpt\\Downloads\\webcheck\\webcheck\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "webcheck\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAAADQAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T15:50:33.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Fpt\\Downloads\\webcheck\\webcheck\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "webcheck\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Fpt\\Downloads\\webcheck\\webcheck\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "webcheck\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T15:44:26.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Fpt\\Downloads\\webcheck\\webcheck\\Program.cs",
+              "RelativeDocumentMoniker": "webcheck\\Program.cs",
+              "ToolTip": "C:\\Users\\Fpt\\Downloads\\webcheck\\webcheck\\Program.cs",
+              "RelativeToolTip": "webcheck\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T15:41:16.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "webcheck",
+              "DocumentMoniker": "C:\\Users\\Fpt\\Downloads\\webcheck\\webcheck\\webcheck.csproj",
+              "RelativeDocumentMoniker": "webcheck\\webcheck.csproj",
+              "ToolTip": "C:\\Users\\Fpt\\Downloads\\webcheck\\webcheck\\webcheck.csproj",
+              "RelativeToolTip": "webcheck\\webcheck.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-10T15:35:29.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "webcheck",
+              "DocumentMoniker": "C:\\Users\\Fpt\\Downloads\\webcheck\\webcheck\\webcheck.csproj",
+              "RelativeDocumentMoniker": "webcheck\\webcheck.csproj",
+              "ToolTip": "C:\\Users\\Fpt\\Downloads\\webcheck\\webcheck\\webcheck.csproj",
+              "RelativeToolTip": "webcheck\\webcheck.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-10T15:35:25.321Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
